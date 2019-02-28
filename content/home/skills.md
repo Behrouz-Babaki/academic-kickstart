@@ -4,9 +4,9 @@ widget = "featurette"  # Do not modify this line!
 date = 2017-09-20T00:00:00
 
 # Activate this widget? true/false
-active = false
+active = true
 
-title = ""
+title = "Skills"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -16,15 +16,15 @@ weight = 20
 # See `config.toml` for more info on available icons.
 
 [[feature]]
-  icon = "files-o"
-  icon_pack = "fa"
-  name = "Data Driven"
-  description = "..."
-  
+  name = "Programming Languages"
+  description = "C++(expert), Python(proficient), Java(proficient)"
+
 [[feature]]
-  icon = "pencil"
-  icon_pack = "fa"
-  name = "Math"
-  description = "..."
+  name = "CP and MIP Solvers"
+  description = "Gecode, Gurobi, SCIP"
+
+[[feature]]
+  name = "Machine Learning Libraries"
+  description = "Scikit-Learn, TensorFlow, Pandas, Numpy,Scipy"
 
 +++

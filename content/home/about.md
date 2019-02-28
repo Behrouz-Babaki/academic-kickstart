@@ -11,30 +11,37 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Combinatorial Optimization",
+    "Constraint Programming"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Computer Engineering"
+  institution = "KU Leuven"
+  year = 2017
+
+[[education.courses]]
+  course = "MSc in Artificial Intelligence"
+  institution = "KU Leuven"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MSc in Industrial Engineering"
+  institution = "Sharif University of Technology"
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "BSc in Industrial Engineering"
+  institution = "Iran University of Scince and Technology"
+  year = 2005
+
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Currently, I am working at the [Quosseca](http://www.polymtl.ca/labo-quosseca/) lab in Polytechnique Montreal, under the supervision of professor [Gilles Pesant](http://www.polymtl.ca/expertises/en/pesant-gilles).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I completed my PhD studies in the Machine Learning group at KU Leuven, under the supervision of professor [Luc De Raedt](http://people.cs.kuleuven.be/~luc.deraedt/) and professor [Tias Guns](http://homepages.vub.ac.be/~tiasguns/).
+
+My main areas of interest are combinatorial optimization and probabilistic reasoning.
