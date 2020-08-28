@@ -40,8 +40,6 @@ weight = 5
 
 # Biography
 
-Currently, I am working at the [Quosseca](http://www.polymtl.ca/labo-quosseca/) lab in Polytechnique Montreal, under the supervision of professor [Gilles Pesant](http://www.polymtl.ca/expertises/en/pesant-gilles).
-
-I completed my PhD studies in the Machine Learning group at KU Leuven, under the supervision of professor [Luc De Raedt](http://people.cs.kuleuven.be/~luc.deraedt/) and professor [Tias Guns](http://homepages.vub.ac.be/~tiasguns/).
+I am a postdoctoral researcher at HEC Montreal, where I work with professor [Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/) and professor [Sanjay Jena](https://sites.google.com/site/sanjaydjena/home). Prior to that, I was a postdoctoral researcher at the [Quosseca](http://www.polymtl.ca/labo-quosseca/) lab in Polytechnique Montreal, where I worked with professor [Gilles Pesant](http://www.polymtl.ca/expertises/en/pesant-gilles). Before that, I was a PhD student in the Machine Learning group at KU Leuven, under the supervision of professor [Luc De Raedt](http://people.cs.kuleuven.be/~luc.deraedt/) and professor [Tias Guns](http://homepages.vub.ac.be/~tiasguns/).
 
 My main areas of interest are combinatorial optimization and probabilistic reasoning.
